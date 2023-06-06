@@ -71,8 +71,8 @@ for t in threads:
 BestTrasa = najlepsza_trasa(BestTrasy)
 BestDlugosc = dlugosc_trasy(BestTrasa)
 
-print("Najmniejsza odległość:", round(BestDlugosc, 2))
-print("optymalna trasa:", BestTrasa)
+print("Shortes distance:", round(BestDlugosc, 2))
+print("Optimal route:", BestTrasa)
 pustak = []
 for i in BestTrasa:
     pustak.append(punkty[i])
