@@ -1,7 +1,7 @@
 
 # Travelling Salesman Problem in Python
 
-Simple python program that finds shortest route between point on a map/graph using brute force method. Writed in Pycharm.
+Simple python program that finds shortest route between point on a map/graph using brute force method. Writed in Python language.
 
 
 
